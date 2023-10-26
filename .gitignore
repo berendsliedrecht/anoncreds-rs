@@ -6,3 +6,4 @@ Cargo.lock
 .tmp
 *.so
 *.tgz
+node_modules
